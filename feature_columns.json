@@ -1,0 +1,1 @@
+{"num_cols": ["engine_cc", "horsepower", "weight_kg", "avg_speed_kmph", "tyre_psi", "payload_kg"], "cat_cols": ["road_type", "traffic_level", "ac_on"]}
